@@ -1,0 +1,137 @@
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.exe
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.deps.json
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.json
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.dev.json
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.AssemblyReference.cache
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfoInputs.cache
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfo.cs
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CoreCompileInputs.cache
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.genruntimeconfig.cache
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Program's\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\My Program's\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CopyComplete
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.exe
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll.config
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.deps.json
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.json
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.dev.json
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.AssemblyReference.cache
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfoInputs.cache
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfo.cs
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CoreCompileInputs.cache
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CopyComplete
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.genruntimeconfig.cache
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.exe
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll.config
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.deps.json
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.json
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.dev.json
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.AssemblyReference.cache
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfoInputs.cache
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfo.cs
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CoreCompileInputs.cache
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CopyComplete
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\My Program's\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.genruntimeconfig.cache
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.exe
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll.config
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.deps.json
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.json
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.runtimeconfig.dev.json
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.AssemblyReference.cache
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfoInputs.cache
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.AssemblyInfo.cs
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CoreCompileInputs.cache
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.csproj.CopyComplete
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.dll
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.pdb
+E:\My Program's\C#\Kronos\KRON\KronTGHelper\obj\Debug\netcoreapp3.1\KronTGHelper.genruntimeconfig.cache
